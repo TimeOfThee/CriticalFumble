@@ -1,0 +1,269 @@
+OVEREXTEND,You prevoke an attack of oppertunity from all adjacent opponents.;
+ACHING BACK,You are fatigued.;
+UPSET TUMMY,you are sickened for 1D4 rounds.;
+BACKBLAST,The attack hits you and is a critical threat. You must roll to confirm the critical hit.;
+>
+CRITICAL MISTAKE,The attack hits you and is a critical threat. You must roll to confirm the critical hit.;
+WHOOPS,You are knocked prone.;
+OUT OF POSITION,You cannot use this attack for 1 round.;
+MIND DRAIN,You take 1D4 poitns of damage to Int, Wis, Cha (determined randomly).;
+>
+OFF BALANCE,You take a -4 penalty on all attack rolls for 1 round.;
+FRIENDLY FIRE,Your attack hits your ally closest to the target.;
+BROKE A NAIL,You take 1D4 points of damage and cannot use this attack until healed.;
+POWER DRAIN,You loose one prepared spell or spell slot (determined randomly).;
+>
+PIN PRICK,You take 1 point of bleed.;
+SPILLED AMMO,Your ammunition falls from its container and takes 1D6 rounds to pick up.;
+JUST A TASTE,Your attack hits an ally adjacent to you or the target.;
+TIRING SPELL,You are fatigued.;
+>
+WIDE OPEN,You are flat-footed for 1 round.;
+CRACKED,Your weapon (not ammunition) takes 1D6 points of damage, ignoring hardness.;
+FIST MEETS FACE,The attack hits you and is a critical threat. You must roll to confirm the critical hit.;
+DISTANCE RIFT,You are teleported to the nearest square adjacent to the target.;
+>
+PULLED MUSCLE,You take 1D4 points of Str damage.;
+AWKWARD ATTACK,You take a -2 penalty to AC for 1D4 rounds.;
+I BIT MY TUG,You take 1 point of bleed.;
+ARCANE FIRE,You take 2D6 points of fire damage.;
+>
+FLING,You drop your weapon and it lands 1D6 squares away in a random direction.;
+HEAD RUSH,You are sickened for 1D4 rounds.;
+OVEREXTEND,You prevoke an attack of oppertunity from all adjacent opponents.;
+REFLECTION,The spell hits you instead of the target (normal saves apply).;
+>
+BACKSWING,The attack deals damage to you instead of the target.;
+WIDE OPEN,You are flat-footed for 1 round.;
+TRIPPED,You are knocked prone.;
+TANGLED,You become entangled in your gear until you spend a standard action to free yourself.;
+>
+I TOLD YOU IT WAS SHARP,You take 1D6 points of bleed.;
+KLUTZ,You drop your weapon.;
+STOP HITTING YOURSELF,The attack deals damage to you instead of the target.;
+NOT ME, YOU FOOL!,Your attack hits your ally closest to the target.;
+>
+SPINNING SWING,you are sickened for 1D4 rounds.;
+NICKED,You take 1 point of bleed.;
+TWISTED,You become entangled in your gear until you spend a standard action to free yourself.;
+APPRENTICE MOVE,Reroll attack creature nearest to the target (yourself excluded).;
+>
+SLIPPED,You are knocked prone.;
+BACKFIRE,The attack deals damage to you instead of the target.;
+BRUISED EGO,You can attack no other target for 1D4 rounds (or until the target is dead).;
+NOSE BLEED,You take 1 point of bleed.;
+>
+BROKEN BLADE,Your weapon breaks (Ref negates). Magic weapons use their own save bonus (DMG 214).;
+MY SPLEENY BITS!,You take 1 point of Con damage.;
+FRUSTRATION,You take a -4 penalty on all attack rolls for 1 round.;
+MONSTER RIFT,Your spell is converted to a summon monster spell of the same level. The monster attacks you.;
+>
+TOO MUCH STUFF,You become entangled in your gear until you spend a standard action to free yourself.;
+SPRAIN,You take 1D4 points of Dex damage.;
+BLEEDING FIST,You take 1D6 points of bleed.;
+VERTIGO,You are sickened for 1D4 rounds.;
+>
+THIS SWORD IS HEAVY,You are fatigued.;
+ERRANT AIM,Reroll attack creature nearest to the target (yourself excluded).;
+AWKWARD ATTACK,You take a -2 penalty to AC for 1D4 rounds.;
+BLEEDING EYES,You take 1D6 points of bleed.;
+>
+BUTTERFINGERS,You drop your weapon.;
+SNAPPED STRING,If the attack was with a bow or a crossbow, the string breaks and requires 1D3 rounds to fix.;
+TORN MUSCLE,You take 1 point of Str drain (Fort negates).;
+MAGIC FATIGUE,You can't cast any spells for 1 round.;
+>
+STRAIN,You take 1D4 points of Dex damage.;
+TIED UP,You become entangled in your gear until you spend a standard action to free yourself.;
+WIDE OPEN,You are flat-footed for 1 round.;
+COLD SNAP,You take 2D6 points of cold damage.;
+>
+AWKWARD ATTACK,You take a -2 penalty to AC for 1D4 rounds.;
+YOU'LL SHOOT YOUR EYE OUT,The attack hits you and is a critical threat. You must roll to confirm the critical hit.;
+TIRING ATTACK,You are fatigued.;
+ACID BACKLASH,You take 2D6 points of acid damage.;
+>
+NOTCHED,Your weapon takes 1D6 points of damage, ignoring hardness.;
+NOTCHED FINGERS,You take 1D6 points of bleed.;
+MUSCLE TEAR,You take 1D4 points of Str damage,;
+ELECTRICAL FEEDBACK,You take 2D6 points of electicity damage.;
+>
+SORRY,Your attack hits an ally adjacent to you or the target.;
+LOSE THE TARGET,You take a -4 penalty on all attack rolls for 1 round.;
+SPRAIN,You take 1D4 points of Dex damage.;
+WEAKENED,You take a -2 penalty to AC for 1D4 minutes.;
+>
+CATCH YOUR BREATH,You can only take a move action next round.;
+WRONG WEAPON,If you made a thrown attack, you throw a random object from your gear.;
+GOT TOO CLOSE,Your attack hits the target but the target may start a grapple against you for free.;
+YOU MADE HIM STRONGER,The target gains a +8 enchantment bonus to Str for 1D4 rounds.;
+>
+ALL OR NOTHING,You take a -1 penalty on attack rolls until you score a critical hit.;
+CLOSE TO THE EAR,You are deafened until healed (DC 15 heal check).;
+PINS AND NEEDLES,You are sickened for 1D6 rounds.;
+WHY ME?,You prevoke attacks of opportunity from all threatening foes.;
+>
+SURROUNDED BY FOES,Your attack hits an ally within reach and is a critical threat. You must roll to confirm the critical hit.;
+INSECURE,You take a -1 penalty on attack rolls for 1D4 days or until you score a critical hit.;
+GREAT ROAR,You are deafened until healed (DC 15 heal check).;
+ERROR!,The attack deals damage to you instead of the target.;
+>
+ARMOR SMASH,The attack deals damage to your armor.;
+LOST GRIP,You can only take a move action next round.;
+BATTERED,You take a -2 penalty on skill checks and saves for 1D4 hours.;
+UNEXPECTED BLAST,The spell affects al targets within 30 feet of you. You are immune to this effect.;
+>
+BONK,You are stunned for 1 rond (Fort negates).;
+SHOT YOUR FOOT,You take 1D2 points of Dex damage and your speed is reduced by half until healed.;
+OVEREXERTION,You are exhausted (Fort negates).;
+SIDE EFFECT,One of your magic items permanently gains a random drawback (DMG 273).;
+>
+NO WAY,Your attack hits the target, but does minimum damage.;
+AMAZING MISS,You are stunned for 1 round (Fort negates).;
+BONE BRUISE,You take 1D2 points of Con damage.;
+YOU MADE HIM BIGGER,Target increases one size category for 1D4 rounds.;
+>
+THIS IS BAD,You take an amount of bleed damage equal to your Str bonus (minimum 1).;
+WHAT ARE THE ODDS?, If you made a thrown attack, you hit the target, but the weapon ends up in the target's possession.;
+WHIRLWIND OF SHAME,Your attack deals damage to all targets adgacent to you exept for the original taregt.;
+JUMBLED COMPONENTS,You can only take a move action next round.;
+>
+ON THE RECEIVING END,The attack deals damage to you instead of the target.;
+IN THE LINE OF FIRE,The attack hits nearest ally and is a critical threat. You must roll to confirm the critical hit.;
+HEAD, MEET WALL,You are dazed for 1D3 rounds.;
+CAN YOU HEAR ME NOW?,You are deafened until healed (DC 15 Heal check).;
+>
+BOHEMIAN EARSPOON,You are deafened until healed (DC 15 Heal check).;
+LOWERED GUARD,You prevoke attacks of opportunity from all threatening foes.;
+FEROCIOS FUMBLE,Your attack hits an ally in reach and is a critical threat. You must roll to confirm the critical hit.;
+THE MAGIC IS GONE,You take a -1 penalty on attack rolls until you score a critical hit.;
+>
+HAND IT OVER,Your target gains possesion of your weapon (Ref negates).;
+BROKEN,Your weapon breaks (Ref negates). Magic weapons use their own save bonus (DMG 214).;
+SMASH THE FLOOR,You kick up dust that blinds you for 1D4 rounds (Fort negates).;
+YOU MADE HIM FASTER,The target is hasted for 1D4 rouds.;
+>
+FUNNY BONE,You drop whatever is in your off hand.;
+NOT MY PONY,Your attack hits the nearest allied animal or mount.;
+BAD HEADBUTT,Your are stunned for 1 round (Fort negates).;
+CASTER'S BLOCK,You cannot cast that spell for 24 hours.;
+>
+BENT,You take a -4 penalty on all attacks with this weapon until it is repaired (CD 20 Craft check).;
+DOUBLE MISS,You use twice as much ammunition on this attack.;
+CAUGHT YOUR ATTACK,The target may attempt to trip, bull rush, or overrun you (target's choice).;
+LEFT REELING,You are stunned for 1 round (Fort negates).;
+>
+SHIELD CRASH,Your attack deals damage to your shield.;
+EBVERYTHING YOU GOT,You are exhausted (Fort negates).;
+HE'S SHARP,You take 1D6 points of damage + your Str modifier.;
+YOU MADE HIM TOUGHER,The target gains DR 5/- for 1D4 rounds.;
+>
+BETTER TO GIVE,Your attack damages you instead. Use yor target's Str modifier.;
+WEAPON JAM,If using a projectile waepon, it does not function. Spend 1 standard action to clear.;
+SNEEZE!,You are dazed for 1 round.;
+HIT BY THE UGLY FOREST,You take 1 point of Cha bleed.;
+>
+CUTTER,You take 1 point of Str bleed.;
+UM. OOPS,The attack deals damage to you instead of the target.;
+INGROWN NAIL,You take a -1 penalty on attack rolls until you score a critical hit.;
+CLATTO VERATA NECKTIE,Your attack hits nearest ally and is a critical threat. You must roll to confirm the critical hit.;
+>
+WINDED,You are exhausted (Fort negates).;
+BAD ALIGNMENT,You take a -4 penalty on all attacks with this weapon until it is repaired (CD 20 Craft check).;
+HE BIT YOUR FIST,The target deals bite damage to you.;
+POOR TRADE,The attack hits, but you must loose a spell or slot of the highest available level (your choice).;
+>
+STUCK,Your weapon is stuck in a nearby surface. DC 20 Str check to free it.;
+ARCHER'S ELBOW,You take a -2 penalty on skill checks and saves for 1D4 minutes.;
+OFF BALANCE,You can only take a move action next round.;
+SPELL SHIELD,The target gains SR equal to 11+your caster level for 1D6 rounds.;
+>
+ATTACK THE DARKNESS,All your enemies have concealment from you for 1D4 rounds.;
+AIM CAREFULLY NEXT TIME,For 3 rounds, you must spend a full round of action to make a single attack.;
+BRUTAL COLLISION,Your attack hits, but you are stunned for 2 rounds (Fort save reduces the stun to 1 round).;
+POWER TRANSFER, The highest-level spell effect on you is transferred to your target.;
+>
+WAIT! WHAT?,You are confused for 1 round.;
+DON'T HIT ME!,for 3 rounds, you take an additional -2 penalty on ranged attacks for each ally in melee combat with your target.;
+PINCHED NERVE, if you had reach greater than 5 feet, it is reduced to 5 feet for 3 rounds.;
+MENTAL SLIP,On his next turn, your target may give you one suggestion.;
+>
+WRONG END,if you're using a slashing weapon, you take 1D6 points of damage and 1 point of bleed.;
+PHANTOM WIND,You compensate for a breeze that isnt' there. You take -2 penalty on ranged attack rolls for 3 rounds.;
+OVERTHINK IT,Your targets armor and natural armor bonuses are doubled against you for 3 rounds.;
+POWER DOWN,You take 1 point of bleed.;
+>
+VIBRATION,If you're using a bludgeoning weapon, you take 1D3 points of Str damage and drop your weapon.;
+RECOIL, You move backward 1 square and fall prone.;
+PUNCTURED FOOT,You take 1D3 points of damage, and your speed is halved until healed.;
+WEAK-MINDED FOOL,You take 1 point of Wis bleed.;
+>
+SECOND THOUGHTS, You are sickened for 1D6 rounds.;
+MIX IT UP,You are unable to make ranged attacks for the next 1D6 rounds.;
+HANGNAIL,If this was a claw attack, slam, or unarmed strike, you cannot use that attack for 1D6 rounds.;
+MAGICAL VACUUM,1D3 spell effects active on you are dispelled (determined randomly).;
+>
+EAT DIRT,You fall prone and are blinded for 1D3 rounds (Fort negates).;
+OVERCOMPENSATE,All targets with cover gain an additional +4 bonus to AC against you for 3 rounds.;
+THAT TASTES AWFUL!,If this was a bite attack, you are nausiated for 1D6 rounds.;
+ENERGY TRANSFER,Lose one randomly determined spell slot. Your target can cast this spell next round.;
+>
+YOU MEANT TO DO THAT,Move 10 feet in a random direction and prevoke attacks of opportunity as normal.;
+MISJUDGED THE DISTANCE,All attack rolls beyond the first range increment have triple the normal distance penalty for 3 rounds.;
+NOT THE WEAK POINT,Your enemy's armour takes 1D6 points of damage. You take 1D6 points of damage and cannot use that attack for 1D3 rounds.;
+HOW DID THAT HAPPEN?,A stinking cloud apears, centered on you.;
+>
+WHO WAS THAT?,You are dazed for 1D3 rounds.;
+SEEING DOUBLE,All your attacks have a 50% miss chance for 1 round.;
+BROKEN TOOTH,You take a -2 penalty on skill checks and saves for 1D6 minutes.;
+FRAGMENTED MAGIC,1D4 +2 mirror images spring up around your target. These images last for 1 minute or until destroyed.;
+>
+BAD GRIP,Your weapon deals nonleathal damage for the next 3 rounds.;
+HUH?,You are confused for 1 round.;
+EYE STRAIN,You are blinded for 1 round.;
+BLASTOFF,You are thrown 1D6x10 feet into the air (or in a random direction if flying) (Will negates).;
+>
+PUNT,Your weapon flies 2D6 squares in a random drection.;
+SO MUCH BLOOD,You are sickened for 1D6 rounds.;
+UNINTENTIONAL MOVE,Move 10 feet in a random direction and prevoke attacks of opportunity as normal.;
+IT'S SPARKLY,You are blinded for 1 round.;
+>
+PARRY! DODGE! SPIN! THRUST!,You are dazed for 1 round.;
+TORN TENDON,You take 1 point od Dex bleed.;
+STINGING FAILURE,You take 1D6 points of nonleathal damage and a-2 penalty on attack rolls with that attack for 1D4 rounds.;
+CURSED,You take a -4 penalty on attack rolls, saves, skill checks, and ability checks. This effect can only be cured with remove curse.;
+>
+CATASTROPHIC FAILURE,You fall unconious for 1D6 rounds (Will negates).;
+OVERTHROW,If attack was made with a thrown weapon, the weapon travels 5 times its range increment in a random direction.;
+DON'T PICK AT IT,You take 1 point of Con damage.;
+MAGICAL SMACKDOWN,You autmatically fail your next saving throw.;
+>
+POINTY END GOES THERE,You take 1 point of Con damage.;
+TUNNEL VISION,For the next 3 rounds you have +1 bonus on attack rolls, but you are flat-footed.;
+WE HAVE A WIENER,You fall unconscious for 1D6 rounds (Will negates).;
+WILD MAGIC,Roll twige on the Rod of Wonder table (DMG 237).;
+>
+BROKEN HAFT,Your weapon loses reach, You have a -4 penalty on attack rolls with it until repaired (DC 20 Craft check).;
+ALL THUMBS,You lose your Dex bonus on attack rolls for 3 rounds.;
+WHIFF,The attack deals damage to you instead of the target.;
+THIS IS HARD,You take 1 point of Con damage.;
+>
+GO FOR THE EYES,You are blinded for 1 round.;
+PINCH IN PARTS,You take 1D6 points of damage.;
+WINDS OF CHANGE,You threaten no squares for 1D6 rounds.;
+NOW I SEE YOU..., Your target becomes invisible for 1D4 rounds.;
+>
+FOR OF WAR,You threaten no squares for 1D6 rounds.;
+BULL'S EYE,Your shot ricochets and hits you near the eye. You are blinded for 1 round.;
+JAM A FINGER,Your target takes normal damage, you take double damage.;
+NOTHING TO FEAR,You are shaken for 2D4 rounds.;
+>
+BLOOMING ON THE BATTLEFIELD,Flowers overgrow beneath your feet. The square where you stand becomes difficult terrain.;
+WRONG HAND,If a bow or crossbow was used, your weapon hits the target instead of the ammunition.;
+KNOCKED BACK,You fly 2D6 squares in a random direction.;
+UNEXPECTED BURST,The spell fizzles, but the target takes 10D3 force damage instead. You can't use that spell until you rest.;
+SEEKING REVENGE,Another enemy enters the battle, I'ts only target is you.;
+>
+DEJA VU,Repeat the effect of a card already drawn.;
+PRESQUE VU,I know that something is supposed to happen here, but I just can't recall it. You will draw an additional fail card on your next critical fail.;
+CURSE OF PHEN, Roll 1D2. On a 1,destroy your weapon. On a 2, your weapon is indestructible for 1D100 days.;
